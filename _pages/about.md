@@ -10,6 +10,7 @@ redirect_from:
 Education
 ======
 Undergrad student 2013-2017 Nankai University
+
 Ms student 2017-2020 University of Chinese Academy of Sciences
 
 Employment

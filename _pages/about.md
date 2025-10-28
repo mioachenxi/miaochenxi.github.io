@@ -17,6 +17,3 @@ Employment
 ======
 Baidu Inc 2020 ~ 
 
-Contact me
-======
-miaochenxi@baidu.com
